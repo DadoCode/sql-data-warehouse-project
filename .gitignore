@@ -1,0 +1,6 @@
+.DS_Store
+
+# Source datasets intentionally excluded
+datasets/*.csv
+datasets/*.xlsx
+datasets/*.xls
