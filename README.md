@@ -138,6 +138,12 @@ The project structure, SQL scripts, transformation logic, quality checks, and do
 
 ---
 
+## Acknowledgement
+
+This project follows the *SQL Data Warehouse* project course by Data with Baraa. The CRM/ERP dataset, the medallion design and the overall project structure come from that course; I worked through it to build and run the warehouse myself and to practise ETL, data-quality checks and dimensional modelling in SQL Server.
+
+---
+
 ## Purpose
 
 This project demonstrates practical SQL and data-engineering skills, including:
